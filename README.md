@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando como eletrotécnico na indústria;
 - 🌱 Cursando ciência da computação;
-- 😄 Aprendendo Python, HTML, CSS 
+- 😄 Aprendendo Python, HTML, CSS e Git
 
 
 
@@ -16,5 +16,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/45002731/176006870-d0dd69a0-a15c-401f-9c9b-10dede32df18.png">
+  <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://user-images.githubusercontent.com/45002731/176006870-d0dd69a0-a15c-401f-9c9b-10dede32df18.png">
   </div>
