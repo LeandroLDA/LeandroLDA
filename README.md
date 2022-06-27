@@ -1,6 +1,6 @@
 ### Olá!!!
 
-- 🔭 Atualmente trabalhando como eletrotécnico;
+- 🔭 Atualmente trabalhando como eletrotécnico na indústria;
 - 🌱 Cursando ciência da computação;
 - 😄 Aprendendo Python, HTML, CSS 
 
