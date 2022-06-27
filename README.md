@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando como eletrotécnico na indústria;
 - 🌱 Cursando ciência da computação;
 - 😄 Aprendendo Python, HTML, CSS e Git
-- Na fila de aprendizado? Angular, C e Arduino (For Fun😄)
+- 🚀 Na fila de aprendizado? Angular, C e Arduino (For Fun😄)
 
 
 
@@ -22,3 +22,5 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />       
 </div>
+  
+  ![](https://komarev.com/ghpvc/?username=LeandroLDA)
