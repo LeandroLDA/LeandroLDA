@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando como eletrotécnico na indústria;
 - 🌱 Cursando ciência da computação;
-- 😄 Aprendendo Python, HTML, CSS e Git
+- 😄 Aprendendo Python, Java, HTML, CSS e Git
 - 🚀 Na fila de aprendizado? Angular, C e Arduino (For Fun😄)
 <br>
 <div align="center">
