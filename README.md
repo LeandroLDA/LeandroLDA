@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando como eletrotécnico na indústria;
 - 🌱 Cursando ciência da computação;
 - 😄 Aprendendo Python, Java, HTML, CSS e Git
-- 🚀 Na fila de aprendizado? Javascript, react e srpingboot.
+- 🚀 Na fila de aprendizado? Javascript, react e springboot.
 <br>
 <div align="center">
   <a href="https://github.com/LeandroLDA">
