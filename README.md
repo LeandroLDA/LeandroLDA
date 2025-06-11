@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando como eletrotécnico na indústria;
 - 🌱 Recém formado em ciência da computação;
-- 🚀 Curssando pós graduação em ciência de dados pelo ICMC/CeMEAI da USP
+- 🚀 Curssando pós graduação em ciência de dados pelo [ICMC/CeMEAI](https://cemeai.icmc.usp.br/MBA/) da USP
 
 <br>
 <div align="center">
