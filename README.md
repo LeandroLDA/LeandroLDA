@@ -1,9 +1,9 @@
 ### Olá!!!
 
 - 🔭 Atualmente trabalhando como eletrotécnico na indústria;
-- 🌱 Cursando ciência da computação;
-- 😄 Aprendendo Python, Java, HTML, CSS e Git
-- 🚀 Na fila de aprendizado? Javascript, React e Spring Boot.
+- 🌱 Recém formado em ciência da computação;
+- 🚀 Curssando pós graduação em ciência de dados pelo ICMC/CeMEAI da USP
+
 <br>
 <div align="center">
   <a href="https://github.com/LeandroLDA">
