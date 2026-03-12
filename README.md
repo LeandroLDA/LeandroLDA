@@ -2,7 +2,8 @@
 
 - 🌱 Formado em Ciência de Dados;
 - 🚀 Pós graduado em ciência de dados pelo [ICMC/CeMEAI](https://cemeai.icmc.usp.br/MBA/) da USP
-
+- Um pouco [sobre](https://leandrolda.github.io/sobre.html) mim.
+- 
 <br>
 <div align="center">
   <a href="https://github.com/LeandroLDA">
