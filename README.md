@@ -46,17 +46,15 @@ Beyond the code, I am a tech and nature enthusiast:
 ### 📫 Let's Connect:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrolda)
   
-<br>
 <div align="center">
-  <a href="https://github.com/LeandroLDA">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula"/>
+ 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula" />
+  </a>
+
+  <br><br>
+
+
+  <img src="https://komarev.com/ghpvc/?username=LeandroLDA&color=blue&style=flat-square" alt="LeandroLDA" />
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/LeandroLDA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
-  ![](https://komarev.com/ghpvc/?username=LeandroLDA)
