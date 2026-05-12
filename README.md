@@ -1,8 +1,50 @@
-### Olá!!!
+# Hi, I'm Leandro 👋 | Industrial Maintenance Expert & Data Scientist
 
-- 🌱 Recém Formado em Ciência de Dados;
-- 🚀 Pós graduado em Ciência de Dados pelo [ICMC/CeMEAI](https://cemeai.icmc.usp.br/MBA/) da USP
+I am a professional with over **22 years of experience in the steelmaking industry**, currently bridging the gap between heavy industry expertise and **Data Science**. My focus is on using analytical intelligence to optimize industrial processes and predictive maintenance.
 
+---
+
+### 🛠️ Professional Profile
+- 🎓 **MBA in Data Science & Analytics** - ICMC-USP (2026)
+- 🎓 **Bachelor's in Data Science** - Univesp
+- 🏭 **22 Years at Usiminas (Cubatão)** - Specialized in Industrial Maintenance and Electrical Inspection.
+- 📍 Based in **Baixada Santista, SP, Brazil**.
+
+---
+
+### 🚀 Featured Repositories
+*Explore my journey in data and automation:*
+
+* 📊 **[DataCamp-Associate-Projects](https://github.com/LeandroLDA/DataCamp-Associate-Projects)**: End-to-end projects focused on EDA and Machine Learning.
+* 🧪 **[Data-Science-Exercises](https://github.com/LeandroLDA/Data-Science-Exercises)**: Daily practice and technical drills.
+* 🧰 **[Python-Toolbox](https://github.com/LeandroLDA/minha-caixa-de-ferramentas-python)**: My personal library of reusable functions.
+
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- **Focus:** Predictive Maintenance Models, Industrial Data Optimization, and IoT.
+- **Hardware:** Prototyping with ESP32 and Arduino for home automation.
+
+---
+
+### 🌱 Personal Interests & Hobbies
+Beyond the code, I am a tech and nature enthusiast:
+- 🎣 **Estuary Fishing:** Targeting Parati and Guaivara in Rio Casqueiro.
+- 🎮 **Survival Gaming:** Active DayZ player (Chernarus explorer).
+- 🖨️ **3D Printing:** Tinkering with an Ender 3 for custom projects.
+- 🐶 **Dog Training:** Learning behavioral conditioning with my Pinscher.
+- 🇺🇸 **Language Learning:** Actively improving my technical English.
+
+---
+
+### 📫 Let's Connect:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrolda)
   
 <br>
 <div align="center">
