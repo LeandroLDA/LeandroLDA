@@ -47,11 +47,12 @@ Beyond the code, I am a tech and nature enthusiast:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrolda)
   
 <div align="center">
- 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/LeandroLDA">
+    <!-- Repare que agora o link começa com o SEU domínio do Vercel -->
+    <img height="180" src="https://project-6s68b.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://project-6s68b.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula" />
   </a>
+</div>
 
   <br><br>
 
