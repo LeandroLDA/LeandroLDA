@@ -9,6 +9,20 @@ I am a professional with over **22 years of experience in the steelmaking indust
 - 🎓 **Bachelor's in Data Science** - Univesp
 - 🏭 **22 Years at Usiminas (Cubatão)** - Specialized in Industrial Maintenance and Electrical Inspection.
 - 📍 Based in **Baixada Santista, SP, Brazil**.
+<!---<div align="left">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=LeandroLDA&color=0088ff&style=flat-square" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/LeandroLDA/github-readme-stats?color=0088ff&style=flat-square" />
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/LeandroLDA/github-readme-stats?color=0088ff&style=flat-square" />
+</div>-->
+
+---
+
+<div align="center">
+  <a href="https://github.com/LeandroLDA">
+    <img height="320" src="https://project-6s68b.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="320" src="https://project-6s68b.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula" />
+  </a>
+</div>
 
 ---
 
@@ -46,16 +60,3 @@ Beyond the code, I am a tech and nature enthusiast:
 ### 📫 Let's Connect:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrolda)
   
-<div align="center">
-  <a href="https://github.com/LeandroLDA">
-    <!-- Repare que agora o link começa com o SEU domínio do Vercel -->
-    <img height="180" src="https://project-6s68b.vercel.app/api?username=LeandroLDA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://project-6s68b.vercel.app/api/top-langs/?username=LeandroLDA&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
-  <br><br>
-
-
-  <img src="https://komarev.com/ghpvc/?username=LeandroLDA&color=blue&style=flat-square" alt="LeandroLDA" />
-</div>
