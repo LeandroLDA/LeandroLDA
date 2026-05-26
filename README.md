@@ -5,8 +5,8 @@ I am a professional with over **22 years of experience in the steelmaking indust
 ---
 
 ### :hammer_and_wrench: Professional Profile
-- :graduation_cap: **MBA in Data Science & Analytics** - ICMC-USP (2026)
-- :graduation_cap: **Bachelor's in Data Science** - Univesp
+- :mortar_board: **MBA in Data Science & Analytics** - ICMC-USP (2026)
+- :mortar_board: **Bachelor's in Data Science** - Univesp
 - :factory: **22 Years at Usiminas (Cubatão)** - Specialized in Industrial Maintenance and Electrical Inspection.
 - :compass: Based in **Baixada Santista, SP, Brazil**.
 <!---<div align="left">
@@ -31,7 +31,7 @@ I am a professional with over **22 years of experience in the steelmaking indust
 
 * :bar_chart: **[DataCamp-Associate-Projects](https://github.com/LeandroLDA/DataCamp-Associate-Projects)**: End-to-end projects focused on EDA and Machine Learning.
 * :test_tube: **[Data-Science-Exercises](https://github.com/LeandroLDA/Data-Science-Exercises)**: Daily practice and technical drills.
-* :classical_building: **[My_PythonLibrary](https://github.com/LeandroLDA/minha_biblioteca_python.git)**: My personal library of reusable functions.
+* :classical_building: **[My_Python_Library](https://github.com/LeandroLDA/minha_biblioteca_python.git)**: My personal library of reusable functions.
 
 ---
 
