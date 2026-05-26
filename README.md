@@ -1,14 +1,14 @@
-# Hi, I'm Leandro 👋 | Industrial Maintenance Expert & Data Scientist
+# Hi, I'm Leandro :wave: | Industrial Maintenance Expert & Data Scientist
 
 I am a professional with over **22 years of experience in the steelmaking industry**, currently bridging the gap between heavy industry expertise and **Data Science**. My focus is on using analytical intelligence to optimize industrial processes and predictive maintenance.
 
 ---
 
-### 🛠️ Professional Profile
-- 🎓 **MBA in Data Science & Analytics** - ICMC-USP (2026)
-- 🎓 **Bachelor's in Data Science** - Univesp
-- 🏭 **22 Years at Usiminas (Cubatão)** - Specialized in Industrial Maintenance and Electrical Inspection.
-- 📍 Based in **Baixada Santista, SP, Brazil**.
+### :hammer_and_wrench: Professional Profile
+- :graduation_cap: **MBA in Data Science & Analytics** - ICMC-USP (2026)
+- :graduation_cap: **Bachelor's in Data Science** - Univesp
+- :factory: **22 Years at Usiminas (Cubatão)** - Specialized in Industrial Maintenance and Electrical Inspection.
+- :compass: Based in **Baixada Santista, SP, Brazil**.
 <!---<div align="left">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=LeandroLDA&color=0088ff&style=flat-square" />
   <img alt="Issues" src="https://img.shields.io/github/issues/LeandroLDA/github-readme-stats?color=0088ff&style=flat-square" />
@@ -26,12 +26,12 @@ I am a professional with over **22 years of experience in the steelmaking indust
 
 ---
 
-### 🚀 Featured Repositories
+### :rocket: Featured Repositories
 *Explore my journey in data and automation:*
 
-* 📊 **[DataCamp-Associate-Projects](https://github.com/LeandroLDA/DataCamp-Associate-Projects)**: End-to-end projects focused on EDA and Machine Learning.
-* 🧪 **[Data-Science-Exercises](https://github.com/LeandroLDA/Data-Science-Exercises)**: Daily practice and technical drills.
-* 🧰 **[Python-Toolbox](https://github.com/LeandroLDA/minha-caixa-de-ferramentas-python)**: My personal library of reusable functions.
+* :bar_chart: **[DataCamp-Associate-Projects](https://github.com/LeandroLDA/DataCamp-Associate-Projects)**: End-to-end projects focused on EDA and Machine Learning.
+* :test_tube: **[Data-Science-Exercises](https://github.com/LeandroLDA/Data-Science-Exercises)**: Daily practice and technical drills.
+* :classical_building: **[My_PythonLibrary](https://github.com/LeandroLDA/minha_biblioteca_python.git)**: My personal library of reusable functions.
 
 ---
 
@@ -47,16 +47,16 @@ I am a professional with over **22 years of experience in the steelmaking indust
 
 ---
 
-### 🌱 Personal Interests & Hobbies
+### :seedling: Personal Interests & Hobbies
 Beyond the code, I am a tech and nature enthusiast:
-- 🎣 **Estuary Fishing:** Targeting Parati and Guaivara in Rio Casqueiro.
-- 🎮 **Survival Gaming:** Active DayZ player (Chernarus explorer).
-- 🖨️ **3D Printing:** Tinkering with an Ender 3 for custom projects.
-- 🐶 **Dog Training:** Learning behavioral conditioning with my Pinscher.
-- 🇺🇸 **Language Learning:** Actively improving my technical English.
+- :fish: **Estuary Fishing:** Targeting Parati and Guaivara in Rio Casqueiro.
+- :video_game: **Survival Gaming:** Active DayZ player (Chernarus explorer).
+- :printer: **3D Printing:** Tinkering with an Ender 3 for custom projects.
+- :service_dog: **Dog Training:** Learning behavioral conditioning with my Pinscher.
+- :us: **Language Learning:** Actively improving my technical English.
 
 ---
 
-### 📫 Let's Connect:
+### :mailbox_with_mail: Let's Connect:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrolda)
   
