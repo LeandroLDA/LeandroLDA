@@ -49,12 +49,11 @@ I am a professional with over **22 years of experience in the steelmaking indust
 
 ### :seedling: Personal Interests & Hobbies
 Beyond the code, I am a tech and nature enthusiast:
-- :fish: **Estuary Fishing:** Targeting Parati and Guaivara in Rio Casqueiro.
-- :video_game: **Survival Gaming:** Active DayZ player (Chernarus explorer).
+- :fish: **Fishing:** At Cubatão.
+- :video_game: **Survival Gaming:** DayZ player (Chernarus, 1pp official server).
 - :printer: **3D Printing:** Tinkering with an Ender 3 for custom projects.
-- :service_dog: **Dog Training:** Learning behavioral conditioning with my Pinscher.
 - :us: **Language Learning:** Actively improving my technical English.
-
+  
 ---
 
 ### :mailbox_with_mail: Let's Connect:
