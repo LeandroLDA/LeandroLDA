@@ -5,6 +5,7 @@ I am a professional with over **22 years of experience in the steelmaking indust
 ---
 
 ### :hammer_and_wrench: Professional Profile
+- :mortar_board: **Master's Degree (Ongoing)** – ICMC-USP (2026)
 - :mortar_board: **MBA in Data Science & Analytics** - ICMC-USP (2026)
 - :mortar_board: **Bachelor's in Data Science** - Univesp
 - :factory: **22 Years at Usiminas (Cubatão)** - Specialized in Industrial Maintenance and Electrical Inspection.
