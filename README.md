@@ -32,7 +32,7 @@ I am a professional with over **22 years of experience in the steelmaking indust
 
 * 📈 [PBF & Inflation Analysis](https://github.com/milton-miranda/mecai-26-prob-estat): Collaborative econometric project analyzing the impact of government programs on food prices.
 * 🏗️[Primavera P6 Analytics](https://github.com/LeandroLDA/consumo_dados_primavera_p6): Forecasting project S-curves and capturing execution patterns using Primavera P6 data.
-* 🍊 [Orange Supply Chain Optimization](https://github.com/alexferrei198170/WMECAI2026): Linear programming model using Gurobi to optimize orange crop allocation between domestic and industrial markets.
+* 🍊 [Orange Supply Chain Optimization](https://github.com): Collaborative linear programming model applying the Simplex algorithm via Gurobi to optimize orange crop allocation.
 
 <!--
 * :bar_chart: **[DataCamp-Associate-Projects](https://github.com/LeandroLDA/DataCamp-Associate-Projects)**: End-to-end projects focused on EDA and Machine Learning.
