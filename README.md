@@ -1,4 +1,4 @@
-# Hi, I'm Leandro :wave: | Industrial Maintenance Expert & Data Scientist
+# Hi, I'm Leandro | Industrial Maintenance Expert & Data Scientist
 
 I am a professional with over **22 years of experience in the steelmaking industry**, currently bridging the gap between heavy industry expertise and **Data Science**. My focus is on using analytical intelligence to optimize industrial processes and predictive maintenance.
 
